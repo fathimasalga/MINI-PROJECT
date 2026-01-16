@@ -49,9 +49,7 @@ This project focuses on classifying different varieties of dry beans using machi
 - Support Vector Machine (SVM)
 - CatBoost
 
-
 ---
-
 
 ## Model Evaluation
 The models were evaluated using:
@@ -61,9 +59,7 @@ The models were evaluated using:
 - F1-score (Weighted)
 Results were compared in a single consolidated table
 
-
 ----
-
 
 ## Best Model Selection
 - Models were evaluated using **Accuracy** and **Weighted F1-Score**
@@ -81,12 +77,12 @@ Results were compared in a single consolidated table
 ---
 
 ## Project Structure
-├── app.py # Streamlit application
-├── model.pkl # Trained ML model
-├── requirements.txt # Required libraries
-├── README.md # Project documentation
-├── Dry_Bean_Project.ipynb # Jupyter notebook
-├── Dry_Bean_dataset.csv #raw dataset
+- app.py # Streamlit application
+- model.pkl # Trained ML model
+- requirements.txt # Required libraries
+- README.md # Project documentation
+- Dry_Bean_Project.ipynb # Jupyter notebook
+- Dry_Bean_dataset.csv #raw dataset
 
 ---
 
@@ -95,6 +91,8 @@ Results were compared in a single consolidated table
 - The model effectively classifies dry bean varieties with high accuracy and F1-score
 - Reduced overfitting through hyperparameter tuning
 - Balanced performance across multiple classes
+
+---
 
 ## Conclusion
 This project demonstrates the effectiveness of machine learning in agricultural classification problems and provides a practical deployment-ready solution using Streamlit.
