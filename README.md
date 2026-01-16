@@ -7,6 +7,18 @@ This project focuses on classifying different varieties of dry beans using machi
 
 ---
 
+## Technologies & Tools Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib / Seaborn
+- Scikit-learn
+- CatBoost
+- Jupyter Notebook
+- Sreamlit
+
+---
+
 ## Dataset
 - Dataset Name: Dry Bean Dataset
 - Source: UCI Machine Learning Repository
@@ -17,7 +29,7 @@ This project focuses on classifying different varieties of dry beans using machi
 
 ---
 
-## Methodology
+##  Methodology
 1. Data loading and understanding
 2. Exploratory Data Analysis (EDA)
 3. Data Preprocessing
