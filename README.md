@@ -94,7 +94,7 @@ Results were compared in a single consolidated table
 - requirements.txt # Required libraries
 - README.md # Project documentation
 - Dry_Bean_Project.ipynb # Jupyter notebook
-- Dry_Bean_dataset.csv #raw dataset
+- Dry_Bean_Dataset.xlsx #raw dataset
 
 ---
 
